@@ -1,2 +1,6 @@
 conf/*
-\nworkspace\njnn\nbin/*
+workspace
+jnn
+bin/*
+src/*
+pkg/*
